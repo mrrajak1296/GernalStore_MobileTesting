@@ -59,7 +59,6 @@ public class generalStor {
 
        
         proceedButton.click();
-        // ✅ Close the driver session
-        //driver.quit();
+        driver.quit();
     }
 }
